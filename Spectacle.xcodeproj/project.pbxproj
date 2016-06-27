@@ -226,6 +226,11 @@
 		2DC4E3DA1AD84E7F0022ABF0 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = it; path = Spectacle/Resources/Localizations/it.lproj/Credits.rtf; sourceTree = "<group>"; };
 		2DC8A0151B85097900ABEBD5 /* SpectacleLoginItemHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SpectacleLoginItemHelper.h; path = Spectacle/Sources/SpectacleLoginItemHelper.h; sourceTree = "<group>"; };
 		2DC8A0161B85097900ABEBD5 /* SpectacleLoginItemHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SpectacleLoginItemHelper.m; path = Spectacle/Sources/SpectacleLoginItemHelper.m; sourceTree = "<group>"; };
+		3FE4107C1D203ADE004BECD6 /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "Spectacle/Resources/Localizations/zh-Hans.lproj/Spectacle.strings"; sourceTree = "<group>"; };
+		3FE4107D1D203ADE004BECD6 /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "Spectacle/Resources/Localizations/zh-Hans.lproj/SpectaclePreferencesWindow.strings"; sourceTree = "<group>"; };
+		3FE4107E1D203ADE004BECD6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = "zh-Hans"; path = "Spectacle/Resources/Localizations/zh-Hans.lproj/Credits.rtf"; sourceTree = "<group>"; };
+		3FE4107F1D203ADE004BECD6 /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; lineEnding = 0; name = "zh-Hans"; path = "Spectacle/Resources/Localizations/zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		3FE410801D203ADE004BECD6 /* zh-Hans */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "Spectacle/Resources/Localizations/zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		574F6A1A1C57BE40001A5679 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = Spectacle/Resources/Localizations/pt.lproj/Spectacle.strings; sourceTree = "<group>"; };
 		574F6A1B1C57BE40001A5679 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = Spectacle/Resources/Localizations/pt.lproj/SpectaclePreferencesWindow.strings; sourceTree = "<group>"; };
 		574F6A1C1C57BE40001A5679 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = pt; path = Spectacle/Resources/Localizations/pt.lproj/Credits.rtf; sourceTree = "<group>"; };
@@ -610,6 +615,7 @@
 				Base,
 				pt,
 				fi,
+				"zh-Hans",
 			);
 			mainGroup = 089C166AFE841209C02AAC07 /* Spectacle */;
 			projectDirPath = "";
@@ -745,6 +751,7 @@
 				2DC4E3DA1AD84E7F0022ABF0 /* it */,
 				574F6A1C1C57BE40001A5679 /* pt */,
 				2D2490E11C7A5BD900A4282B /* fi */,
+				3FE4107E1D203ADE004BECD6 /* zh-Hans */,
 			);
 			name = Credits.rtf;
 			sourceTree = "<group>";
@@ -757,6 +764,7 @@
 				2DA23EFD1B80FB6400C9E8EF /* it */,
 				574F6A1D1C57BE40001A5679 /* pt */,
 				2D2490E21C7A5BD900A4282B /* fi */,
+				3FE4107F1D203ADE004BECD6 /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -769,6 +777,7 @@
 				2DC4E3D91AD84E7F0022ABF0 /* it */,
 				574F6A1E1C57BE40001A5679 /* pt */,
 				2D2490E31C7A5BD900A4282B /* fi */,
+				3FE410801D203ADE004BECD6 /* zh-Hans */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -781,6 +790,7 @@
 				2DA23F071B8109D400C9E8EF /* it */,
 				574F6A1A1C57BE40001A5679 /* pt */,
 				2D2490DF1C7A5BD900A4282B /* fi */,
+				3FE4107C1D203ADE004BECD6 /* zh-Hans */,
 			);
 			name = Spectacle.xib;
 			sourceTree = "<group>";
@@ -793,6 +803,7 @@
 				2DA23F091B8109D900C9E8EF /* it */,
 				574F6A1B1C57BE40001A5679 /* pt */,
 				2D2490E01C7A5BD900A4282B /* fi */,
+				3FE4107D1D203ADE004BECD6 /* zh-Hans */,
 			);
 			name = SpectaclePreferencesWindow.xib;
 			sourceTree = "<group>";

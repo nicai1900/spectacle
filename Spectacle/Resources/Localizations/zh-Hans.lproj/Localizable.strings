@@ -1,0 +1,42 @@
+﻿/* The informative text of the alert displayed when prompting to restore Spectacle's default shortcuts */
+"AlertInformativeTextRestoreDefaults" = "恢复默认快捷键将会清除自定义设置？";
+
+
+/* The informative text of the alert displayed when prompting to run Spectacle in the background */
+"AlertInformativeTextRunningInBackground" = "在后台运行Spectacle，不显示状态栏菜单.\n\n在Launchpad或者Finder中打开Spectacle偏好设置。";
+
+/* The informative text of the alert displayed when a shortcut is already in use */
+"AlertInformativeTextShortcutAlreadyInUse" = "快捷键 \"%@\" 已占用。请使用新的快捷键。";
+
+/* The informative text of the alert displayed when a system-wide shortcut is already in use */
+"AlertInformativeTextSystemWideShortcutAlreadyUsed" = "快捷键 \"%@\" 已被系统占用.\n\n可以在系统偏好设置下的键盘设置中修改快捷键设置，以此来使用该快捷键";
+
+/* The message text of the alert displayed when prompting to restore Spectacle's default shortcuts */
+"AlertMessageTextRestoreDefaults" = "恢复Spectacle默认快捷键设置";
+
+/* The message text of the alert displayed when prompting to run Spectacle in the background */
+"AlertMessageTextRunningInBackground" = "使Spectacle在后台运行";
+
+/* The message text of the alert displayed when a shortcut is invalid */
+"AlertMessageTextShortcutValidationError" = "快捷键 %@ 已被占用。";
+
+/* The button label used in the affirmative */
+"ButtonLabelAffirmative" = "确定";
+
+/* The button label used in the negative */
+"ButtonLabelNegative" = "取消";
+
+/* The menu item title that displays the application to disable shortcuts for */
+"MenuItemTitleDisableShortcutsForApplication" = "禁用 %@";
+
+/* The shortcut recorder label displayed when the shorcut recorder is cleared and ready to record a new shortcut */
+"ShortcutRecorderLabelClickToRecord" = "点击开始记录";
+
+/* The shortcut recorder label displayed when the shorcut recorder is recording a shortcut */
+"ShortcutRecorderLabelEnterShortcut" = "输入快捷键";
+
+/* The shortcut recorder label displayed when the shorcut recorder is recording a shortcut and the shortcut recorder does not have a previously recorded shortcut */
+"ShortcutRecorderLabelStopRecording" = "停止记录";
+
+/* The shortcut recorder label displayed when the shorcut recorder is recording a shortcut and the shortcut recorder does have a previously recorded shortcut */
+"ShortcutRecorderLabelUseExisting" = "使用已有的";
